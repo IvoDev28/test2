@@ -1,1 +1,1 @@
-console.log(juego nuevo)
+console.log(juego nuevo2)
